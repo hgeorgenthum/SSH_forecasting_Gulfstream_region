@@ -120,5 +120,5 @@ so that any reconstruction can be considered uncorrelated to the evaluation peri
 
 | Method           | µ(RMSE) 0/3/6 days | λx (km) 0/3/6 days |
 |:-----------------|:------------------:|:------------------:|
-| 4DVarNet-starter | 0.83 / 0.79 / 0.72 | 150 / 208 / 246    |
+| 4DVarNet-starter | 0.83 / 0.78 / 0.72 | 154 / 211 / 257    |
 | Glo              | 0.59 / 0.52 / 0.47 | 296 / 437 / nan    |
